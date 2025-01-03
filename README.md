@@ -31,7 +31,6 @@ Dr. Silva has coordinated and participated in dozens of research projects result
 - Ariel Afonso, Paulo Martins, Altigran S. da Silva: [**SEREIA: document store exploration through keywords.**](https://link.springer.com/article/10.1007/s10115-024-02151-1) Knowl. Inf. Syst. 66(10): 6101-6132 (2024)
 - Edleno Silva de Moura, Berg Ferreira, Altigran S. da Silva, Ricardo Baeza-Yates: [**BWBEV: A Bitwise Query Processing Algorithm for Approximate Prefix Search.**](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/4236) J. Braz. Comput. Soc. 30(1): 527-541 (2024)
 
-https://drive.google.com/file/d/1A38T0pdyFbUQwFH2Jxw0Jewds5Jc-_BT/view?usp=drive_link
 ### Conference Papers:
 - [Silva@ReSys-Demos'24] Eduardo Alves da Silva, Leandro Balby Marinho, Edleno Silva de Moura, Altigran S. da Silva: [A Tool for Explainable Pension Fund Recommendations using Large Language Models](https://dl.acm.org/doi/10.1145/3640457.3691699). RecSys 2024: 1184-1186
 	- 🎙️[Podcast-PT](https://drive.google.com/open?id=1A38T0pdyFbUQwFH2Jxw0Jewds5Jc-_BT&usp=drive_fs) 
