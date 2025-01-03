@@ -1,3 +1,4 @@
+
 # Altigran Soares da Silva
 
 ## Full Professor, Federal University of Amazonas (UFAM)
@@ -26,20 +27,27 @@ Dr. Silva has coordinated and participated in dozens of research projects result
 ## Selected Publications (2024)
 
 ### Journal Papers:
-- **SEREIA: Document Store Exploration through Keywords** - Knowledge and Information Systems, v. 1, p. 1, 2024.
-- **BWBEV: A Bitwise Query Processing Algorithm for Approximate Prefix Search** - Journal of the Brazilian Computer Society, v. 30, p. 527-541, 2024.
-- **Inteligência artificial e direito (Artificial Intelligence and Law)** - Revista da UFMG, v. 30, p. 1, 2024.
+- Daniela Vianna, Edleno Silva de Moura, Altigran S. da Silva: [**A topic discovery approach for unsupervised organization of legal document collections.**](https://link.springer.com/article/10.1007/s10506-023-09371-w) Artif. Intell. Law 32(4): 1045-1074 (2024)
+- Ariel Afonso, Paulo Martins, Altigran S. da Silva: [**SEREIA: document store exploration through keywords.**](https://link.springer.com/article/10.1007/s10115-024-02151-1) Knowl. Inf. Syst. 66(10): 6101-6132 (2024)
+- Edleno Silva de Moura, Berg Ferreira, Altigran S. da Silva, Ricardo Baeza-Yates: [**BWBEV: A Bitwise Query Processing Algorithm for Approximate Prefix Search.**](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/4236) J. Braz. Comput. Soc. 30(1): 527-541 (2024)
 
+https://drive.google.com/file/d/1A38T0pdyFbUQwFH2Jxw0Jewds5Jc-_BT/view?usp=drive_link
 ### Conference Papers:
-- **Financial Assets: A Generative AI Approach** - 7th Financial Technology and Natural Language Processing, Torino, 2024.
-- **Um Estudo sobre Ensino de Engenharia de Dados nas Universidades Brasileiras: Estado Atual e Perspectivas de Mercado (A Study on Teaching Data Engineering in Brazilian Universities: Current State and Market Perspectives)** - EDUCOMP 2024.
-- **A Study on Unsupervised Question and Answer Generation for Legal Information Retrieval and Precedents Understanding** - ACM SIGIR Conference, 2024.
-- **Um Estudo sobre o uso de Modelos de Linguagem Abertos na Tarefa de Recomendação de Próximo Item (A Study on Open Language Models for Next-Item Recommendation)** - SBBD, 2024.
-- **Fine-tuning Open-source Large Language Models for Automated Response to Customer Feedback** - Symposium on Knowledge Discovery, Mining and Learning, 2024.
+- [Silva@ReSys-Demos'24] Eduardo Alves da Silva, Leandro Balby Marinho, Edleno Silva de Moura, Altigran S. da Silva: [A Tool for Explainable Pension Fund Recommendations using Large Language Models](https://dl.acm.org/doi/10.1145/3640457.3691699). RecSys 2024: 1184-1186
+	- 🎙️[Podcast-PT](https://drive.google.com/open?id=1A38T0pdyFbUQwFH2Jxw0Jewds5Jc-_BT&usp=drive_fs) 
+	- **TL;DR:** This paper presents a prototype tool leveraging Large Language Models to recommend personalized private pension funds to investors, providing explainable rationales to enhance trust and improve decision-making for financial advisors.
+	- **TL;DR:**  Este artigo apresenta um protótipo que utiliza Modelos de Linguagem de Larga Escala para recomendar fundos de pensão privados de forma personalizada, oferecendo justificativas explicáveis para aumentar a confiança e auxiliar na tomada de decisões por consultores financeiros.
+- Johny Moreira, Altigran S. da Silva, Edleno Silva de Moura, Leandro Bezerra Marinho: [A Study on Unsupervised Question and Answer Generation for Legal Information Retrieval and Precedents Understanding](https://dl.acm.org/doi/10.1145/3626772.3661354). SIGIR 2024: 2865-2869
+- Gabriel Assis, Daniela Vianna, Gisele L. Pappa, Alexandre Plastino, Wagner Meira Jr, Altigran S. da Silva, Aline Paes. [Analysis of Material Facts on Financial Assets: A Generative AI Approach. ](https://aclanthology.org/2024.finnlp-1.11/) Proceedings of the Joint Workshop of the 7th Financial Technology and Natural Language Processing, the 5th Knowledge Discovery from Unstructured Data in Financial Services, and the 4th Workshop on Economics and Natural Language Processing @ LREC-C, 2024. 
+- Tarsis Azevedo and Altigran Silva. 2024. [Um Estudo sobre Ensino de Engenharia de Dados nas Universidades Brasileiras: Estado Atual e Perspectivas de Mercado (A Study on Data Engineering Teaching in Brazilian Universities: Current Status and Market Perspectives](https://sol.sbc.org.br/index.php/educomp/article/view/28206)). In _Anais do IV Simpósio Brasileiro de Educação em Computação_ 375-383, 2024
+- Marcos Lima, Eduardo Silva, and Altigran S. da Silva. 2024. **[Um Estudo sobre o uso de Modelos de Linguagem Abertos na Tarefa de Recomendação de Próximo Item (A Study on Open Language Models for Next-Item Recommendation)](https://sol.sbc.org.br/index.php/sbbd/article/view/30717)**. In _Anais do XXXIX Simpósio Brasileiro de Bancos de Dados_, 510-522, 2024
+- Mateus Albuquerque, Luciano Barbosa, Johny Moreira, Altigran S. da Silva, and Tiago Melo. 2024. [Fine-tuning Open-source Large Language Models for Automated Response to Customer Feedback.](https://sol.sbc.org.br/index.php/kdmile/article/view/30949) In _Anais do XII Symposium on Knowledge Discovery, Mining and Learning_, 65-72, 2024
 
+### Preprints
+- Arthur Elwing Torres, Edleno Silva de Moura, Altigran Soares da Silva, Mario A. Nascimento, Filipe de Sá Mesquita: **[An Experimental Study on Data Augmentation Techniques for Named Entity Recognition on Low-Resource Domains](https://arxiv.org/abs/2411.14551).** CoRR abs/2411.14551 (2024)
 ### Technical Reports:
-- **Recomendações para o avanço da inteligência artificial no Brasil (Recommendations for Advancing Artificial Intelligence in Brazil)** - Almeida, V.A.F. et al., 2024.
-- **Plano de Inteligência Artificial da Sociedade Brasileira de Computação (AI Plan of the Brazilian Computer Society)** - Carvalho, A.M.P. et al., 2024.
+- [**Recomendações para o avanço da inteligência artificial no Brasil (Recommendations for Advancing Artificial Intelligence in Brazil)**](https://www.abc.org.br/wp-content/uploads/2023/11/recomendacoes-para-o-avanco-da-inteligencia-artificial-no-brasil-abc-novembro-2023-GT-IA.pdf) - Academia Brasileira de Ciências (ABC), 2024
+- [Plano de Inteligência Artificial da Sociedade Brasileira de Computação (Brazilian Computer Society Artificial Intelligence Plan)](https://books-sol.sbc.org.br/index.php/sbc/catalog/book/141). Sociedade Brasileira de Computação (SBC), 2024.
 
 ---
 
