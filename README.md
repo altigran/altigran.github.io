@@ -1,4 +1,3 @@
-# Altigran's Homepage
 # Altigran Soares da Silva
 
 ## Full Professor, Federal University of Amazonas (UFAM)
@@ -27,9 +26,9 @@ Dr. Silva has coordinated and participated in dozens of research projects result
 ## Selected Publications (2024)
 
 ### Journal Papers:
-- **Inteligência artificial e direito (Artificial Intelligence and Law)** - Revista da UFMG, v. 30, p. 1, 2024.
-- **BWBEV: A Bitwise Query Processing Algorithm for Approximate Prefix Search** - Journal of the Brazilian Computer Society, v. 30, p. 527-541, 2024.
 - **SEREIA: Document Store Exploration through Keywords** - Knowledge and Information Systems, v. 1, p. 1, 2024.
+- **BWBEV: A Bitwise Query Processing Algorithm for Approximate Prefix Search** - Journal of the Brazilian Computer Society, v. 30, p. 527-541, 2024.
+- **Inteligência artificial e direito (Artificial Intelligence and Law)** - Revista da UFMG, v. 30, p. 1, 2024.
 
 ### Conference Papers:
 - **Financial Assets: A Generative AI Approach** - 7th Financial Technology and Natural Language Processing, Torino, 2024.
@@ -75,16 +74,12 @@ Dr. Silva has coordinated and participated in dozens of research projects result
 
 ## Contact
 
-- **Email:** alti@icomp.ufam.edu.br
-- **Phone:** +55 (92) 3647-4019
-- ![image](https://github.com/user-attachments/assets/e8357a21-988c-4dd3-a259-1c3bb8e502ad)
-**[Linkedin](https://www.linkedin.com/in/altigran/)**
-- **[Twitter/X](https://x.com/altigran)**
-- **[Instagram](https://www.instagram.com/altigrans/):**
-- **[Youtube](https://www.youtube.com/@altigran_icomp)**
-- **Telegram**/**Discord**:** @altigran
-- **Office Address:** Av. Gal. Rodrigo Octávio, 3000 - Bloco N, Japiim, Manaus, AM, Brazil
-- [Lattes CV](http://lattes.cnpq.br/3405503472010994) | [ORCID](https://orcid.org/0000-0002-8992-495X)
+- <a href="mailto:youremail@example.com"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="18" height="18" alt="Email"> </a> alti@icomp.ufam.edu.br
+- [Lattes CV](http://lattes.cnpq.br/3405503472010994) | <a href="https://orcid.org/0000-0002-8992-495X" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="18" height="18" alt="ORCID"> </a>[ORCID](https://orcid.org/0000-0002-8992-495X) 
+- <a href="(https://www.linkedin.com/in/altigran/" target="blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18" height="18"></a> [Linkedin](https://www.linkedin.com/in/altigran/) | <a href="https://www.youtube.com/@altigran_icomp" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="18" height="18" alt="YouTube"></a> [Youtube](https://www.youtube.com/@altigran_icomp) | <a href="https://twitter.com/your-profile" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="18" height="18" alt="Twitter"> </a>[Twitter/X](https://x.com/altigran) | <a href="https://instagram.com/your-profile" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="18" height="18" alt="Instagram"> </a> [Instagram](https://www.instagram.com/altigrans/)
+- <a href="https://t.me/altigran" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="18" height="18" alt="Telegram"> </a>[Telegram: @altigran](https://t.me/altigran) |  <a href="https://discord.com/users/altigran" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="18" height="18" alt="Discord"> </a> [Discord: @altigran](https://discord.com/users/altigran)
+- **Office Address:** Av. Gal. Rodrigo Octávio, 3000 - Bloco N, Japiim, Manaus, AM, Brazil - Instituto de Computação - Setor Norte - Campus UFAM
+
 
 ---
 
