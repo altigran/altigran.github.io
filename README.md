@@ -75,8 +75,13 @@ Dr. Silva has coordinated and participated in dozens of research projects result
 
 ## Contact
 
-- **Email:** alti@dcc.ufam.edu.br
+- **Email:** alti@icomp.ufam.edu.br
 - **Phone:** +55 (92) 3647-4019
+- **Telegram**
+- **Discord**
+- **Linkedin**
+- **Twitter/X**
+- **Instragram**
 - **Office Address:** Av. Gal. Rodrigo Octávio, 3000 - Bloco N, Japiim, Manaus, AM, Brazil
 - [Lattes CV](http://lattes.cnpq.br/3405503472010994) | [ORCID](https://orcid.org/0000-0002-8992-495X)
 
