@@ -1,6 +1,5 @@
 
 # Altigran Soares da Silva
-
 ## Full Professor, Federal University of Amazonas (UFAM)
 
 ---
@@ -30,18 +29,13 @@ Dr. Silva has coordinated and participated in dozens of research projects result
 - Daniela Vianna, Edleno Silva de Moura, Altigran S. da Silva: [**A topic discovery approach for unsupervised organization of legal document collections.**](https://link.springer.com/article/10.1007/s10506-023-09371-w) Artif. Intell. Law 32(4): 1045-1074 (2024)
 - Ariel Afonso, Paulo Martins, Altigran S. da Silva: [**SEREIA: document store exploration through keywords.**](https://link.springer.com/article/10.1007/s10115-024-02151-1) Knowl. Inf. Syst. 66(10): 6101-6132 (2024)
 - Edleno Silva de Moura, Berg Ferreira, Altigran S. da Silva, Ricardo Baeza-Yates: [**BWBEV: A Bitwise Query Processing Algorithm for Approximate Prefix Search.**](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/4236) J. Braz. Comput. Soc. 30(1): 527-541 (2024)
-
 ### Conference Papers:
-- [Silva@ReSys-Demos'24] Eduardo Alves da Silva, Leandro Balby Marinho, Edleno Silva de Moura, Altigran S. da Silva: [A Tool for Explainable Pension Fund Recommendations using Large Language Models](https://dl.acm.org/doi/10.1145/3640457.3691699). RecSys 2024: 1184-1186
-	- 🎙️[Podcast-PT](https://drive.google.com/open?id=1A38T0pdyFbUQwFH2Jxw0Jewds5Jc-_BT&usp=drive_fs) 
-	- **TL;DR:** This paper presents a prototype tool leveraging Large Language Models to recommend personalized private pension funds to investors, providing explainable rationales to enhance trust and improve decision-making for financial advisors.
-	- **TL;DR:**  Este artigo apresenta um protótipo que utiliza Modelos de Linguagem de Larga Escala para recomendar fundos de pensão privados de forma personalizada, oferecendo justificativas explicáveis para aumentar a confiança e auxiliar na tomada de decisões por consultores financeiros.
+- [Silva@ReSys-Demos'24] Eduardo Alves da Silva, Leandro Balby Marinho, Edleno Silva de Moura, Altigran S. da Silva: [A Tool for Explainable Pension Fund Recommendations using Large Language Models](https://dl.acm.org/doi/10.1145/3640457.3691699). RecSys 2024: 1184-1186 🎙️[Podcast-PT](https://drive.google.com/open?id=1A38T0pdyFbUQwFH2Jxw0Jewds5Jc-_BT&usp=drive_fs) [Podcast-ENG](https://drive.google.com/open?id=1A4Wq7Y4Mm6OH59E3QxQrNjJ2ealmGVCa&usp=drive_fs)
 - Johny Moreira, Altigran S. da Silva, Edleno Silva de Moura, Leandro Bezerra Marinho: [A Study on Unsupervised Question and Answer Generation for Legal Information Retrieval and Precedents Understanding](https://dl.acm.org/doi/10.1145/3626772.3661354). SIGIR 2024: 2865-2869
 - Gabriel Assis, Daniela Vianna, Gisele L. Pappa, Alexandre Plastino, Wagner Meira Jr, Altigran S. da Silva, Aline Paes. [Analysis of Material Facts on Financial Assets: A Generative AI Approach. ](https://aclanthology.org/2024.finnlp-1.11/) Proceedings of the Joint Workshop of the 7th Financial Technology and Natural Language Processing, the 5th Knowledge Discovery from Unstructured Data in Financial Services, and the 4th Workshop on Economics and Natural Language Processing @ LREC-C, 2024. 
 - Tarsis Azevedo and Altigran Silva. 2024. [Um Estudo sobre Ensino de Engenharia de Dados nas Universidades Brasileiras: Estado Atual e Perspectivas de Mercado (A Study on Data Engineering Teaching in Brazilian Universities: Current Status and Market Perspectives](https://sol.sbc.org.br/index.php/educomp/article/view/28206)). In _Anais do IV Simpósio Brasileiro de Educação em Computação_ 375-383, 2024
 - Marcos Lima, Eduardo Silva, and Altigran S. da Silva. 2024. **[Um Estudo sobre o uso de Modelos de Linguagem Abertos na Tarefa de Recomendação de Próximo Item (A Study on Open Language Models for Next-Item Recommendation)](https://sol.sbc.org.br/index.php/sbbd/article/view/30717)**. In _Anais do XXXIX Simpósio Brasileiro de Bancos de Dados_, 510-522, 2024
 - Mateus Albuquerque, Luciano Barbosa, Johny Moreira, Altigran S. da Silva, and Tiago Melo. 2024. [Fine-tuning Open-source Large Language Models for Automated Response to Customer Feedback.](https://sol.sbc.org.br/index.php/kdmile/article/view/30949) In _Anais do XII Symposium on Knowledge Discovery, Mining and Learning_, 65-72, 2024
-
 ### Preprints
 - Arthur Elwing Torres, Edleno Silva de Moura, Altigran Soares da Silva, Mario A. Nascimento, Filipe de Sá Mesquita: **[An Experimental Study on Data Augmentation Techniques for Named Entity Recognition on Low-Resource Domains](https://arxiv.org/abs/2411.14551).** CoRR abs/2411.14551 (2024)
 ### Technical Reports:
@@ -50,33 +44,34 @@ Dr. Silva has coordinated and participated in dozens of research projects result
 
 ---
 
-## Research Projects (2024)
+## Current Research Projects
 
-### Coordinated Projects:
-- **Integrando LLMs em Sistemas de Recomendação Financeiros: Personalização e Mitigação de Viés (Integrating LLMs into Financial Recommendation Systems: Personalization and Bias Mitigation)** - This project develops advanced methods to enhance fairness and personalization in financial recommendation systems by leveraging Large Language Models (LLMs). Funded by CNPq.
+### Projects  I am coordinating:
+- **Integrando LLMs em Sistemas de Recomendação Financeiros: Personalização e Mitigação de Viés (Integrating LLMs into Financial Recommendation Systems: Personalization and Bias Mitigation)** - This project aims to develop advanced methods to enhance fairness and personalization in financial recommendation systems by leveraging Large Language Models (LLMs). Funded by CNPq.
 - **Descoberta Semântica e Explicabilidade de Relacionamentos em Data Lakes (Semantic Discovery and Explainability of Relationships in Data Lakes)** - Focuses on creating integrated solutions for identifying and explaining semantic relationships in large data repositories, improving efficiency and interpretability. Funded by FAPEAM.
 - **Neural Bond - Uso de Modelos de Linguagem Neurais para Engajamento Inteligente de Usuários em Redes Sociais (Neural Bond: Neural Language Models for Smart Social Media Engagement)** - Investigates neural language models to optimize user engagement and interaction in social media platforms.
 
-### Participating Projects:
-- **Centro de Inovação em Inteligência Artificial para a Saúde (CIIA-Saúde - Center for Innovation in Artificial Intelligence for Health)** - A multidisciplinary project exploring AI-driven solutions to enhance diagnostics, treatment plans, and healthcare management.
-- **Instituto Nacional de Ciência e Tecnologia em Inteligência Artificial (IAIA - National Institute of Science and Technology in Artificial Intelligence)** - A national initiative aiming to advance AI technologies across multiple domains, fostering innovation and collaboration.
+### Research Networks:
+- [**Centro de Inovação em Inteligência Artificial para a Saúde (CIIA-Saúde - Center for Innovation in Artificial Intelligence for Health)**](https://ciia-saude.dcc.ufmg.br/) - Principal Investigator - A multidisciplinary project exploring AI-driven solutions to enhance diagnostics, treatment plans, and healthcare management.
+- [**Instituto Nacional de Ciência e Tecnologia em Inteligência Artificial (IAIA - National Institute of Science and Technology in Artificial Intelligence)** ](https://inct-iaia.vercel.app/)- Steering Commitee Member - National initiative aiming to advance AI technologies across multiple domains, fostering innovation and collaboration 
 
 ---
-
-## Supervisions (2024)
-
-### Master's Students:
-- **Manoel Victor Florencio de Souza** - Descoberta de Junções e Data Lakes com base em Anotações Semânticas (Semantic Join Discovery in Data Lakes).
-- **Giovanna Andrade Santos** - Um Estudo sobre Segmentação de Sentenças Judiciais Brasileiras utilizando Modelos de Linguagem (A Study on Sentence Segmentation in Brazilian Legal Texts Using Language Models).
-- **Gustavo Rufino Feltrin** - Um Estudo sobre Métodos de Sumarização de Documentos Aplicados a Acórdãos (A Study on Document Summarization Methods for Court Decisions).
-- **Luisa P. Novaes** - Métodos para Identificação Automática do Resultado de Decisões em Acórdãos no Contexto da Justiça Brasileira (Methods for Automatic Identification of Outcomes in Court Decisions in Brazil).
+## Current Supervisions 
 
 ### Ph.D. Students:
 - **Júnio da Silva de Freitas** - Geração Automática de Visões para Bancos de Dados: Uma Nova Estratégia para Aprimorar a Conversão de Texto para SQL com LLMs (Automatic View Generation for Databases: Enhancing SQL-to-Text Conversion with LLMs).
 - **Eduardo Alves da Silva** - Um Estudo sobre Métodos de Recomendação de Portfólio para Investimentos em Previdência (A Study on Portfolio Recommendation Methods for Pension Investments).
 - **Arthur Elwing Torres** - Análise da Utilização de Aumento de Dados em Extração de Entidades Nomeadas de Textos de Domínio Específico (Analysis of Data Augmentation in Named Entity Extraction for Domain-Specific Texts).
 - **Ariel Antony Afonso** - Towards a Unified Framework to Deal with Database Schema Changes in Continuous Deployment.
-
+### Master's Students:
+- **Manoel Victor Florencio de Souza** - Descoberta de Junções e Data Lakes com base em Anotações Semânticas (Semantic Join Discovery in Data Lakes).
+- **Giovanna Andrade Santos** - Um Estudo sobre Segmentação de Sentenças Judiciais Brasileiras utilizando Modelos de Linguagem (A Study on Sentence Segmentation in Brazilian Legal Texts Using Language Models).
+- **Gustavo Rufino Feltrin** - Um Estudo sobre Métodos de Sumarização de Documentos Aplicados a Acórdãos (A Study on Document Summarization Methods for Court Decisions).
+- **Luisa P. Novaes** - Métodos para Identificação Automática do Resultado de Decisões em Acórdãos no Contexto da Justiça Brasileira (Methods for Automatic Identification of Outcomes in Court Decisions in Brazil).
+- [Duarte'24] **Aline Duarte** - Um Estudo sobre o uso de Modelos de Linguagem de Larga Escala para An´alise de Dados Acadêmicos da Pós-Graduação (A Study on the Use of Large Scale Language Models for Analysis of Postgraduate Academic Data). 🎙️[Podcast-Eng](https://drive.google.com/open?id=1AB9mk49zZWop8Gq1u-zb2jhxay2KzqAR&usp=drive_fs)
+- 
+ 
+ 
 ---
 
 ## Contact
