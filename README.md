@@ -1,4 +1,3 @@
-
 # Altigran Soares da Silva - Full Professor
 ## Instituto de Computação <br>Universidade Federal do Amazonas (UFAM)
 
@@ -8,7 +7,6 @@
 	<a href="http://icomp.ufam.edu.br" target="_blank"> 
 	<img src="https://drive.google.com/thumbnail?id=1AJecFM3hLx8nobOJNgJeXrH3t4oeocud" height="100" alt="Instagram"> </a>
 </p>
-
 ## About Me
 
 Altigran Soares da Silva is a Full Professor at the Instituto de Computação at the Universidade Federal do Amazonas (IComp/UFAM). He earned his Ph.D. in Computer Science from UFMG in 2002. His research interests include Data Management, Information Retrieval, Data Mining, Machine Learning, and Language Models, focusing on the World Wide Web, Social Media, and applications in law, finance, and health. Dr. da Silva has coordinated and participated in dozens of research projects resulting in over 150 scientific publications in journals and conference proceedings. He served as Vice Provost for Research and Graduate Studies at UFAM (2007/2009), coordinator of CA-CC at CNPq (2023/2024), and adjunct coordinator of the computing area at CAPES (2011/2013). He was also a board member (2005/2015) and council member (2016/2019) of SBC. He co-founded companies such as Akwan (acquired by Google in 2005), Neemu (acquired by Linx Systems in 2015), and Teewa (acquired by JusBrasil in 2019).
@@ -49,6 +47,7 @@ Altigran Soares da Silva is a Full Professor at the Instituto de Computação at
 - **Descoberta Semântica e Explicabilidade de Relacionamentos em Data Lakes (Semantic Discovery and Explainability of Relationships in Data Lakes)** - Focuses on creating integrated solutions for identifying and explaining semantic relationships in large data repositories, improving efficiency and interpretability. Funded by FAPEAM.
 - **Integrando LLMs em Sistemas de Recomendação Financeiros: Personalização e Mitigação de Viés (Integrating LLMs into Financial Recommendation Systems: Personalization and Bias Mitigation)** - This project aims to develop advanced methods to enhance fairness and personalization in financial recommendation systems by leveraging Large Language Models (LLMs). Funded by CNPq.
 - **Neural Bond - Uso de Modelos de Linguagem Neurais para Engajamento Inteligente de Usuários em Redes Sociais (Neural Bond - Using Neural Language Models for Smart Social Media Engagement)** - Investigates neural language models to optimize user engagement and interaction in social media platforms. Funded by FAPEAM.
+- **Pesquisa em Métodos e Técnicas para Sistemas de Sugestões de Consultas** (Research on Methods and Techniques for Query Suggestion Systems) - This project aims to study and develop new methods for relevance ranking in autocomplete systems using machine learning. The development process involves building labeled datasets and defining features to train algorithms that approximate optimal solutions.  Funded by Jusbrasil (GOSHME) 
 ### Research Networks I am participating
 - [**Centro de Inovação em Inteligência Artificial para a Saúde (CIIA-Saúde - Center for Innovation in Artificial Intelligence for Health)**](https://ciia-saude.dcc.ufmg.br/) - Principal Investigator - A multidisciplinary project exploring AI-driven solutions to enhance diagnostics, treatment plans, and healthcare management.
 - [**Instituto Nacional de Ciência e Tecnologia em Inteligência Artificial (IAIA - National Institute of Science and Technology in Artificial Intelligence)** ](https://inct-iaia.vercel.app/)- Steering Commitee Member - National initiative aiming to advance AI technologies across multiple domains, fostering innovation and collaboration 
