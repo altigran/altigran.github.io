@@ -8,6 +8,7 @@
 	<a href="http://icomp.ufam.edu.br" target="_blank"> 
 	<img src="https://drive.google.com/thumbnail?id=1AJecFM3hLx8nobOJNgJeXrH3t4oeocud" height="100" alt="Instagram"> </a>
 </p>
+
 ## About Me
 
 Altigran Soares da Silva is a Full Professor at the Instituto de Computação at the Universidade Federal do Amazonas (IComp/UFAM). He earned his Ph.D. in Computer Science from UFMG in 2002. His research interests include Data Management, Information Retrieval, Data Mining, Machine Learning, and Language Models, focusing on the World Wide Web, Social Media, and applications in law, finance, and health. Dr. da Silva has coordinated and participated in dozens of research projects resulting in over 150 scientific publications in journals and conference proceedings. He served as Vice Provost for Research and Graduate Studies at UFAM (2007/2009), coordinator of CA-CC at CNPq (2023/2024), and adjunct coordinator of the computing area at CAPES (2011/2013). He was also a board member (2005/2015) and council member (2016/2019) of SBC. He co-founded companies such as Akwan (acquired by Google in 2005), Neemu (acquired by Linx Systems in 2015), and Teewa (acquired by JusBrasil in 2019).
