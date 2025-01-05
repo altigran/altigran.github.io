@@ -1,10 +1,13 @@
 
-# Altigran Soares da Silva
+# Altigran Soares da Silva - Full Professor
+## Instituto de Computação <br>Universidade Federal do Amazonas (UFAM)
 
-## Full Professor, Universidade Federal do Amazonas (UFAM)
-
----
-
+<p style="display: flex; gap: 20px;">
+	<a href="http://ufam.edu.br" target="_blank"> 
+	<img src="https://drive.google.com/thumbnail?id=1AKksSW3TJRuC0TA5v-Kg1t0p8t1I3vzK" height="100" alt="Instagram"> </a>
+	<a href="http://icomp.ufam.edu.br" target="_blank"> 
+	<img src="https://drive.google.com/thumbnail?id=1AJecFM3hLx8nobOJNgJeXrH3t4oeocud" height="100" alt="Instagram"> </a>
+</p>
 ## About Me
 
 Altigran Soares da Silva is a Full Professor at the Instituto de Computação at the Universidade Federal do Amazonas (IComp/UFAM). He earned his Ph.D. in Computer Science from UFMG in 2002. His research interests include Data Management, Information Retrieval, Data Mining, Machine Learning, and Language Models, focusing on the World Wide Web, Social Media, and applications in law, finance, and health. Dr. da Silva has coordinated and participated in dozens of research projects resulting in over 150 scientific publications in journals and conference proceedings. He served as Vice Provost for Research and Graduate Studies at UFAM (2007/2009), coordinator of CA-CC at CNPq (2023/2024), and adjunct coordinator of the computing area at CAPES (2011/2013). He was also a board member (2005/2015) and council member (2016/2019) of SBC. He co-founded companies such as Akwan (acquired by Google in 2005), Neemu (acquired by Linx Systems in 2015), and Teewa (acquired by JusBrasil in 2019).
@@ -65,11 +68,28 @@ Altigran Soares da Silva is a Full Professor at the Instituto de Computação at
  
 ---
 
+## Support
+
+I gratefully acknowledge the financial and institutional support provided by the following organizations:
+
+- [**CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico)**](http://www.cnpq.br)  
+    CNPq plays a crucial role in promoting scientific and technological development in Brazil by funding research projects, scholarships, and fostering innovation. I am honored to be recognized as a Level 1B researcher by CNPq.
+    
+- [**CAPES (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior)**](https://www.gov.br/capes/pt-br)  
+    CAPES is dedicated to improving the quality of higher education in Brazil through scholarships, grants, and support for postgraduate programs. It has also provided scholarships for several students involved in my projects.
+    
+- [**FAPEAM (Fundação de Amparo à Pesquisa do Estado do Amazonas)**](https://www.fapeam.am.gov.br/)  
+    FAPEAM provides financial support for scientific research and innovation within the State of Amazonas, fostering regional development. It has supported many projects throughout the years and also provided scholarships for several students involved in my projects.
+    
+- [**Jusbrasil**](https://www.jusbrasil.com.br)  
+    Jusbrasil is a leading Brazilian legal technology company. Jusbrasil has supported a specific project under my coordination and research grants to several of my students and postdocs.
+
+--- 
 ## Contact
 
 - <a href="mailto:youremail@example.com"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="18" height="18" alt="Email"> </a> alti@icomp.ufam.edu.br
 - [Lattes CV](http://lattes.cnpq.br/3405503472010994) | <a href="https://orcid.org/0000-0002-8992-495X" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="18" height="18" alt="ORCID"> </a>[ORCID](https://orcid.org/0000-0002-8992-495X) 
-- <a href="(https://www.linkedin.com/in/altigran/" target="blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18" height="18"></a> [Linkedin](https://www.linkedin.com/in/altigran/) | <a href="https://www.youtube.com/@altigran_icomp" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="18" height="18" alt="YouTube"></a> [Youtube](https://www.youtube.com/@altigran_icomp) | <a href="https://twitter.com/your-profile" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="18" height="18" alt="Twitter"> </a>[Twitter/X](https://x.com/altigran) | <a href="https://instagram.com/your-profile" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="18" height="18" alt="Instagram"> </a> [Instagram](https://www.instagram.com/altigrans/)
+- <a href="(https://www.linkedin.com/in/altigran/" target="blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18" height="18"></a> [Linkedin](https://www.linkedin.com/in/altigran/) | <a href="https://www.youtube.com/@altigran_icomp" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="18" height="18" alt="YouTube"></a> [Youtube](https://www.youtube.com/@altigran_icomp) | <a href="https://twitter.com/your-profile" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="18" height="18" alt="Twitter"> </a>[Twitter/X](https://x.com/altigran) | <a href="https://instagram.com/altigrans" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="18" height="18" alt="Instagram"> </a> [Instagram](https://www.instagram.com/altigrans/)
 - <a href="https://t.me/altigran" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="18" height="18" alt="Telegram"> </a>[Telegram: @altigran](https://t.me/altigran) |  <a href="https://discord.com/users/altigran" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="18" height="18" alt="Discord"> </a> [Discord: @altigran](https://discord.com/users/altigran)
 - **Office Address:** 
 	- Instituto de Computação - Setor Norte - Campus UFAM
