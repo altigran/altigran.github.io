@@ -1,5 +1,5 @@
-# Altigran Soares da Silva - Full Professor
 ## Instituto de Computação <br>Universidade Federal do Amazonas (UFAM)
+## Professor
 
 <p style="display: flex; gap: 20px;">
 	<a href="http://ufam.edu.br" target="_blank"> 
