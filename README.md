@@ -1,4 +1,4 @@
-## Instituto de Computação <br>Universidade Federal do Amazonas (UFAM) <br> Professor
+## Instituto de Computação <br>Universidade Federal do Amazonas (UFAM)<br>Professor
 
 <p style="display: flex; gap: 20px;">
 	<a href="http://ufam.edu.br" target="_blank"> 
@@ -6,15 +6,14 @@
 	<a href="http://icomp.ufam.edu.br" target="_blank"> 
 	<img src="https://drive.google.com/thumbnail?id=1AJecFM3hLx8nobOJNgJeXrH3t4oeocud" height="100" alt="Instagram"> </a>
 </p>
-
-## About Me  
+## About Me
 
 Altigran Soares da Silva is a Full Professor at the Instituto de Computação at the Universidade Federal do Amazonas (IComp/UFAM). He earned his Ph.D. in Computer Science from UFMG in 2002. His research interests include Data Management, Information Retrieval, Data Mining, Machine Learning, and Language Models, focusing on the World Wide Web, Social Media, and applications in law, finance, and health. Dr. da Silva has coordinated and participated in dozens of research projects resulting in over 150 scientific publications in journals and conference proceedings. He served as Vice Provost for Research and Graduate Studies at UFAM (2007/2009), coordinator of CA-CC at CNPq (2023/2024), and adjunct coordinator of the computing area at CAPES (2011/2013). He was also a board member (2005/2015) and council member (2016/2019) of SBC. He co-founded companies such as Akwan (acquired by Google in 2005), Neemu (acquired by Linx Systems in 2015), and Teewa (acquired by JusBrasil in 2019).
 
 ---
 
 ## Research Interests
-- Data Management, Information Retrieval
+- Data Management,Information Retrieval
 - Data Mining
 - Machine Learning
 - Language Models
@@ -84,6 +83,18 @@ I gratefully acknowledge the financial and institutional support provided by the
     
 - [**Jusbrasil**](https://www.jusbrasil.com.br)  
     Jusbrasil is a leading Brazilian legal technology company. Jusbrasil has supported a specific project under my coordination and research grants to several of my students and postdocs.
+
+
+---
+
+## Academic Service
+
+I am currently:
+
+- A **board member of the [SBC (Brazilian Computer Society)](https://www.sbc.org.br/)**
+- **Deputy  Coordinator** for [Professional Programs in Computing](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/sobre-a-avaliacao/areas-avaliacao/sobre-as-areas-de-avaliacao/colegio-de-ciencias-exatas-tecnologicas-e-multidisciplinar/ciencias-exatas-e-da-terra/ciencia-da-computacao) at **CAPES**
+- **Co-Editor-in-Chief** of the **[Journal of the Brazilian Computer Society](https://journals-sol.sbc.org.br/index.php/jbcs/)**
+- A member of the **Commission for Monitoring and Evaluation of the [RNP](https://www.rnp.br/)/MCTI Management Contract**.
 
 --- 
 ## Contact
