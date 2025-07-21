@@ -2,7 +2,7 @@
 
 <p style="display: flex; gap: 20px;">
 	<a href="http://ufam.edu.br" target="_blank"> 
-	<img src="https://pt.wikipedia.org/wiki/Universidade_Federal_do_Amazonas#/media/Ficheiro:Brasao_ufam_2011.jpg" height="100" alt="Instagram"> </a>
+	<img src="https://antigo.ufam.edu.br/images/2016/06JUNHO/01%20ufam-02.jpg" height="100" alt="Instagram"> </a>
 	<a href="http://icomp.ufam.edu.br" target="_blank"> 
 	<img src="https://icomp.ufam.edu.br/images/icomp.png" height="100" alt="Instagram"> </a>
 </p>
