@@ -13,10 +13,8 @@ Altigran Soares da Silva is a Full Professor at the Instituto de Computação at
 ---
 
 ## Research Interests
-- Data Management,Information Retrieval
-- Data Mining
-- Machine Learning
-- Language Models
+- Data Management, Data Engineering, Data Mining
+- Machine Learning, Information Retrieval, Language Models
 - Web and Social Media
 
 ---
