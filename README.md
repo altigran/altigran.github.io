@@ -2,9 +2,9 @@
 
 <p style="display: flex; gap: 20px;">
 	<a href="http://ufam.edu.br" target="_blank"> 
-	<img src="https://drive.google.com/thumbnail?id=1AKksSW3TJRuC0TA5v-Kg1t0p8t1I3vzK" height="100" alt="Instagram"> </a>
+	<img src="https://pt.wikipedia.org/wiki/Universidade_Federal_do_Amazonas#/media/Ficheiro:Brasao_ufam_2011.jpg" height="100" alt="Instagram"> </a>
 	<a href="http://icomp.ufam.edu.br" target="_blank"> 
-	<img src="https://drive.google.com/thumbnail?id=1AJecFM3hLx8nobOJNgJeXrH3t4oeocud" height="100" alt="Instagram"> </a>
+	<img src="https://icomp.ufam.edu.br/images/icomp.png" height="100" alt="Instagram"> </a>
 </p>
 ## About Me
 
