@@ -54,13 +54,13 @@ Altigran Soares da Silva is a Full Professor at the Instituto de Computação at
 ## Current Supervisions 
 
 ### Ph.D. Students
-- **Júnio da Silva de Freitas** - Geração Automática de Visões para Bancos de Dados: Uma Nova Estratégia para Aprimorar a Conversão de Texto para SQL com LLMs (Automatic View Generation for Databases: Enhancing SQL-to-Text Conversion with LLMs).
-- **Eduardo Alves da Silva** - Um Estudo sobre Métodos de Recomendação de Portfólio para Investimentos em Previdência (A Study on Portfolio Recommendation Methods for Pension Investments).
-- **Arthur Elwing Torres** - Análise da Utilização de Aumento de Dados em Extração de Entidades Nomeadas de Textos de Domínio Específico (Analysis of Data Augmentation in Named Entity Extraction for Domain-Specific Texts).
+- **Júnio da Silva de Freitas** - Automatic View Generation for Databases: Enhancing SQL-to-Text Conversion with LLMs (Geração Automática de Visões para Bancos de Dados: Uma Nova Estratégia para Aprimorar a Conversão de Texto para SQL com LLMs).
+- **Eduardo Alves da Silva** - A Study on Portfolio Recommendation Methods for Pension Investments (Um Estudo sobre Métodos de Recomendação de Portfólio para Investimentos em Previdência).
+- **Arthur Elwing Torres** - Analysis of Data Augmentation in Named Entity Extraction for Domain-Specific Texts (Análise da Utilização de Aumento de Dados em Extração de Entidades Nomeadas de Textos de Domínio Específico).
 - **Ariel Antony Afonso** - Towards a Unified Framework to Deal with Database Schema Changes in Continuous Deployment.
 ### Master's Students
-- **Manoel Victor Florencio de Souza** - Descoberta de Junções e Data Lakes com base em Anotações Semânticas (Semantic Join Discovery in Data Lakes).
-- **Giovanna Andrade Santos** - Um Estudo sobre Segmentação de Sentenças Judiciais Brasileiras utilizando Modelos de Linguagem (A Study on Sentence Segmentation in Brazilian Legal Texts Using Language Models).
+- **Manoel Victor Florencio de Souza** - Semantic Join Discovery in Data Lakes (Descoberta de Junções e Data Lakes com base em Anotações Semânticas).
+- **Giovanna Andrade Santos** - A Study on Sentence Segmentation in Brazilian Legal Texts Using Language Models (Um Estudo sobre Segmentação de Sentenças Judiciais Brasileiras utilizando Modelos de Linguagem).
 - **Gustavo Rufino Feltrin** - Um Estudo sobre Métodos de Sumarização de Documentos Aplicados a Acórdãos (A Study on Document Summarization Methods for Court Decisions).
 - **Luisa P. Novaes** - Métodos para Identificação Automática do Resultado de Decisões em Acórdãos no Contexto da Justiça Brasileira (Methods for Automatic Identification of Outcomes in Court Decisions in Brazil).
 - [Duarte'24] **Aline Duarte** - Um Estudo sobre o uso de Modelos de Linguagem de Larga Escala para An´alise de Dados Acadêmicos da Pós-Graduação (A Study on the Use of Large Scale Language Models for Analysis of Postgraduate Academic Data). 
