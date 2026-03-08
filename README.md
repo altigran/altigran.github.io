@@ -96,6 +96,7 @@ I gratefully acknowledge the financial and institutional support provided by the
 
 I am currently:
 
+- Latin America Caribbean Regional Committee Chair of the **[ACM Globalization Board](https://www.acm.org/about-acm/boards-and-committees)**.
 - A **board member of the [SBC (Brazilian Computer Society)](https://www.sbc.org.br/)**
 - **Deputy  Coordinator** for [Professional Programs in Computing](https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/sobre-a-avaliacao/areas-avaliacao/sobre-as-areas-de-avaliacao/colegio-de-ciencias-exatas-tecnologicas-e-multidisciplinar/ciencias-exatas-e-da-terra/ciencia-da-computacao) at **CAPES**
 - **Co-Editor-in-Chief** of the **[Journal of the Brazilian Computer Society](https://journals-sol.sbc.org.br/index.php/jbcs/)**
