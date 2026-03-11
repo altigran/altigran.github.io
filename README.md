@@ -102,6 +102,20 @@ I am currently:
 - **Co-Editor-in-Chief** of the **[Journal of the Brazilian Computer Society](https://journals-sol.sbc.org.br/index.php/jbcs/)**
 - A member of the **Commission for Monitoring and Evaluation of the [RNP](https://www.rnp.br/)/MCTI Management Contract**.
 
+---
+
+## Featured Alumni (draft)
+
+- **Henry Vieira** — PhD in Computer Science (UFAM, 2018). Machine Learning Engineer at Meta (Menlo Park, USA)
+- **Tarsis Figueredo Azevedo** — MSc in Informatics (UFAM, 2024). Data & Software Engineer at Doximity (remote, Brazil/USA). 
+- **Brandell Cássio Corrêa Ferreira** — MSc in Informatics (UFAM, 2022). Search Platform Software Engineer at Gympass (Lisbon, Portugal)
+- **Lucas Citolin** — MSc in Informatics (UFAM, 2021). Engineering Tech Lead at UME (São Paulo, Brazil)
+- **Luisa dos Reis e Silva** — MSc in Informatics (UFAM, 2017). Engineering & Product Analytics Manager at Delivery Hero (Berlin, Germany)
+- **Urique Hoffmann de Souza Almeida** — MSc in Informatics (UFAM, 2016). Senior Software/Data Engineer at Microsoft (Vancouver, Canada)
+- **Leonardo Fontes do Nascimento** — MSc in Informatics (UFAM, 2016). Technical Lead for Data Engineering at Triad Systems IPT (São Paulo, Brazil)
+- **Diego de Azevedo Barros** — MSc in Informatics (UFAM, 2016). Data Engineer at PagBank PagSeguro (São Paulo, Brazil). 
+- **André de Souza Pedralho** — MSc in Informatics (UFAM, 2011). Software Engineer at Méliuz (Belo Horizonte, Brazil)
+
 --- 
 ## Contact
 
